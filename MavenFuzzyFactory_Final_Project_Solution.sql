@@ -196,10 +196,3 @@ FROM primary_products
 GROUP BY 1;
 
 
-/*
-8. In addition to telling investors about what we’ve already achieved, let’s show them that we still have plenty 
-of gas in the tank. Based on all the analysis you’ve done, could you share some recommendations and 
-opportunities for us going forward? No right or wrong answer here – I’d just like to hear your perspective!
-*/
-
-
