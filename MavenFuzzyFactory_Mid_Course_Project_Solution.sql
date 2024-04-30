@@ -177,7 +177,7 @@ GROUP BY 1;
 -- .0319 for /home, vs .0406 for /lander-1 
 -- .0087 additional orders per session
 
--- finding the most reent pageview for gsearch nonbrand where the traffic was sent to /home
+-- finding the most recent pageview for gsearch nonbrand where the traffic was sent to /home
 SELECT 
 	MAX(website_sessions.website_session_id) AS most_recent_gsearch_nonbrand_home_pageview 
 FROM website_sessions 
